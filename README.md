@@ -3,7 +3,8 @@
 
 
 User authentication with JWT
-Using sqlite
+Using sqlite for managment users
+
 
 ### Backend
 dotnet  core 6.0
