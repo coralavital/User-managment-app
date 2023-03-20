@@ -5,11 +5,11 @@
 User authentication with jwt
 Using sqlite
 
-## Backend
+### Backend
 dotnet  core 6.0
-## Frontend
+### Frontend
 react-js 
-## Database
+### Database
 sqlite 6.0.8
 
 
