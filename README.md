@@ -2,7 +2,7 @@
 # Contact Managment
 
 
-User authentication with jwt
+User authentication with JWT
 Using sqlite
 
 ### Backend
