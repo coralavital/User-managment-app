@@ -15,7 +15,6 @@
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.1",
     "cors": "^2.8.5",
-    "gh-pages": "^4.0.0",
     "http-proxy-middleware": "^2.0.6",
     "jquery": "^3.6.0",
     "merge": "^2.1.1",
@@ -53,6 +52,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.29.4",
+    "gh-pages": "^5.0.0",
     "nan": "^2.15.0",
     "typescript": "^4.6.3"
   },
