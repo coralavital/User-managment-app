@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44429",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/coralavital/Desktop/vscode/CRUD_Application/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
