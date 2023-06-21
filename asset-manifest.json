@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CRUD_Application/static/css/main.8ed82b1a.css",
-    "main.js": "/CRUD_Application/static/js/main.3ed7d005.js",
-    "static/js/787.389af740.chunk.js": "/CRUD_Application/static/js/787.389af740.chunk.js",
-    "static/media/19362653.jpg": "/CRUD_Application/static/media/19362653.0a4893421f4eb80a395c.jpg",
-    "service-worker.js": "/CRUD_Application/service-worker.js",
-    "index.html": "/CRUD_Application/index.html",
-    "main.8ed82b1a.css.map": "/CRUD_Application/static/css/main.8ed82b1a.css.map",
-    "main.3ed7d005.js.map": "/CRUD_Application/static/js/main.3ed7d005.js.map",
-    "787.389af740.chunk.js.map": "/CRUD_Application/static/js/787.389af740.chunk.js.map"
+    "main.css": "/CRUD_Application/ClientApp/static/css/main.3dea4c0e.css",
+    "main.js": "/CRUD_Application/ClientApp/static/js/main.84d6e70b.js",
+    "static/js/787.389af740.chunk.js": "/CRUD_Application/ClientApp/static/js/787.389af740.chunk.js",
+    "static/media/19362653.jpg": "/CRUD_Application/ClientApp/static/media/19362653.0a4893421f4eb80a395c.jpg",
+    "service-worker.js": "/CRUD_Application/ClientApp/service-worker.js",
+    "index.html": "/CRUD_Application/ClientApp/index.html",
+    "main.3dea4c0e.css.map": "/CRUD_Application/ClientApp/static/css/main.3dea4c0e.css.map",
+    "main.84d6e70b.js.map": "/CRUD_Application/ClientApp/static/js/main.84d6e70b.js.map",
+    "787.389af740.chunk.js.map": "/CRUD_Application/ClientApp/static/js/787.389af740.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ed82b1a.css",
-    "static/js/main.3ed7d005.js"
+    "static/css/main.3dea4c0e.css",
+    "static/js/main.84d6e70b.js"
   ]
 }
