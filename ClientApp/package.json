@@ -2,7 +2,7 @@
   "name": "CRUD Application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://coralavital.github.io/CRUD_Application",
+  "homepage": "/",
   "proxy": "http://localhost:44429",
   "dependencies": {
     "@emotion/react": "^11.10.4",
